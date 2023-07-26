@@ -12,6 +12,15 @@ class Solution:
 
         return total
 
+# another way of solving
+class Solution:
+    def maxSubArray(self, nums):
+        cur_max, max_till_now = 0, -inf
+        for c in nums:
+            cur_max = max(c, cur_max + c)
+            max_till_now = max(max_till_now, cur_max)
+        return max_till_now
+    
 '''
 The idea of Kadane's algorithm is to maintain a variable max_ending_here that stores the maximum 
 sum contiguous subarray ending at current index and a variable max_so_far stores the maximum sum of 
