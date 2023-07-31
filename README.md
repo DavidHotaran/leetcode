@@ -8,3 +8,7 @@
 
 ### String
 * merge-strings-alternately
+* reverse-words-in-a-string
+
+### 2 Pointers
+* reverse-words-in-a-string
