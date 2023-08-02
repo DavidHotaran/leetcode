@@ -9,6 +9,8 @@
 ### String
 * merge-strings-alternately
 * reverse-words-in-a-string
+* reverse-vowles-in-a-string
 
 ### 2 Pointers
 * reverse-words-in-a-string
+* reverse-vowels-in-a-string
