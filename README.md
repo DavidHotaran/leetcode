@@ -6,6 +6,11 @@
 * best-time-to-buy-and-sell-stock
 * maximum-subarray
 * can-place-flowers
+* product-of-array-except-self
+
+### Prefix/Postfix
+* product-of-array-except-self
+
 
 ### String
 * merge-strings-alternately
