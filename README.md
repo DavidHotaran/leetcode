@@ -5,6 +5,7 @@
 ### Array
 * best-time-to-buy-and-sell-stock
 * maximum-subarray
+* can-place-flowers
 
 ### String
 * merge-strings-alternately
