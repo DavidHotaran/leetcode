@@ -1,22 +1,31 @@
 ### Sliding Window
-* best-time-to-buy-and-sell-stock
-* maximum-subarray
+
+- best-time-to-buy-and-sell-stock
+- maximum-subarray
 
 ### Array
-* best-time-to-buy-and-sell-stock
-* maximum-subarray
-* can-place-flowers
-* product-of-array-except-self
+
+- best-time-to-buy-and-sell-stock
+- maximum-subarray
+- can-place-flowers
+- product-of-array-except-self
+- binary-search
 
 ### Prefix/Postfix
-* product-of-array-except-self
 
+- product-of-array-except-self
 
 ### String
-* merge-strings-alternately
-* reverse-words-in-a-string
-* reverse-vowles-in-a-string
+
+- merge-strings-alternately
+- reverse-words-in-a-string
+- reverse-vowles-in-a-string
 
 ### 2 Pointers
-* reverse-words-in-a-string
-* reverse-vowels-in-a-string
+
+- reverse-words-in-a-string
+- reverse-vowels-in-a-string
+
+### Binary Search
+
+- binary-search
