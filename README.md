@@ -10,6 +10,7 @@
 - can-place-flowers
 - product-of-array-except-self
 - binary-search
+- find-first-and-last-position-of-element-in-sorted-array
 
 ### Prefix/Postfix
 
@@ -29,3 +30,4 @@
 ### Binary Search
 
 - binary-search
+- find-first-and-last-position-of-element-in-sorted-array
