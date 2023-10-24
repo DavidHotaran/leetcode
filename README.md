@@ -63,3 +63,7 @@
 ### Set/Hash-Table
 
 - find-difference-of-two-arrays
+
+### Stack
+
+- removing-stars-from-a-string
