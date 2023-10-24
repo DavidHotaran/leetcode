@@ -1,3 +1,8 @@
+| Problem             | Looked at solution | Do again | Solved again |
+| ------------------- | ------------------ | -------- | ------------ |
+| same-tree-iterative | Yes                | Yes      | No           |
+| same-tree-recursive | Yes                | Yes      | No           |
+
 ### Sliding Window
 
 - best-time-to-buy-and-sell-stock
@@ -31,3 +36,20 @@
 
 - binary-search
 - find-first-and-last-position-of-element-in-sorted-array
+
+### Tree problems
+
+- same-tree-iterative
+- same-tree-recursive
+
+### BFS
+
+- same-tree-iterative
+
+### DFS
+
+- same-tree-recursive
+
+### Recursion
+
+- same-tree-recursive
