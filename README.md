@@ -69,3 +69,7 @@
 
 - removing-stars-from-a-string
 - asteroid-collision
+
+### Linked List
+
+- delete-the-middle-node-of-a-linked-list
