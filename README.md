@@ -26,6 +26,7 @@
 - merge-strings-alternately
 - reverse-words-in-a-string
 - reverse-vowles-in-a-string
+- length-of-last-word
 
 ### 2 Pointers
 
