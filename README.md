@@ -2,6 +2,7 @@
 | ------------------- | ------------------ | -------- | ------------ |
 | same-tree-iterative | Yes                | Yes      | No           |
 | same-tree-recursive | Yes                | Yes      | No           |
+| asteroid-collision  | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -67,3 +68,4 @@
 ### Stack
 
 - removing-stars-from-a-string
+- asteroid-collision
