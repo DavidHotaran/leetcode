@@ -3,6 +3,7 @@
 | same-tree-iterative | Yes                | Yes      | No           |
 | same-tree-recursive | Yes                | Yes      | No           |
 | asteroid-collision  | Yes                | Yes      | No           |
+| find-peak-element   | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -39,6 +40,7 @@
 - binary-search
 - find-first-and-last-position-of-element-in-sorted-array
 - guess-number-higher-or-lower
+- find-peak-element
 
 ### Tree problems
 
