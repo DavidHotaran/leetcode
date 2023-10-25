@@ -38,6 +38,7 @@
 
 - binary-search
 - find-first-and-last-position-of-element-in-sorted-array
+- guess-number-higher-or-lower
 
 ### Tree problems
 
