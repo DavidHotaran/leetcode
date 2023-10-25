@@ -1,9 +1,10 @@
-| Problem             | Looked at solution | Do again | Solved again |
-| ------------------- | ------------------ | -------- | ------------ |
-| same-tree-iterative | Yes                | Yes      | No           |
-| same-tree-recursive | Yes                | Yes      | No           |
-| asteroid-collision  | Yes                | Yes      | No           |
-| find-peak-element   | Yes                | Yes      | No           |
+| Problem                                | Looked at solution | Do again | Solved again |
+| -------------------------------------- | ------------------ | -------- | ------------ |
+| same-tree-iterative                    | Yes                | Yes      | No           |
+| same-tree-recursive                    | Yes                | Yes      | No           |
+| asteroid-collision                     | Yes                | Yes      | No           |
+| find-peak-element                      | Yes                | Yes      | No           |
+| successful-pairs-of-spells-and-potions | No                 | Yes      | No           |
 
 ### Sliding Window
 
@@ -41,6 +42,7 @@
 - find-first-and-last-position-of-element-in-sorted-array
 - guess-number-higher-or-lower
 - find-peak-element
+- successful-pairs-of-spells-and-potions
 
 ### Tree problems
 
