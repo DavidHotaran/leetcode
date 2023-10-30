@@ -49,6 +49,7 @@
 - same-tree-iterative
 - same-tree-recursive
 - minimum-absolute-difference-in-bst
+- invert-binary-tree
 
 ### In-order Travsersal
 
@@ -65,6 +66,7 @@
 ### Recursion
 
 - same-tree-recursive
+- invert-binary-tree
 
 ### Set/Hash-Table
 
