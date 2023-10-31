@@ -53,6 +53,7 @@
 - invert-binary-tree
 - count-complete-tree-nodes
 - average-of-levels-in-binary-tree
+- binary-tree-level-order-traversal
 
 ### In-order Travsersal
 
@@ -62,6 +63,7 @@
 
 - same-tree-iterative
 - average-of-levels-in-binary-tree
+- binary-tree-level-order-traversal
 
 ### DFS
 
