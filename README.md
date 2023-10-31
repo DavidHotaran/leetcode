@@ -5,6 +5,7 @@
 | asteroid-collision                     | Yes                | Yes      | No           |
 | find-peak-element                      | Yes                | Yes      | No           |
 | successful-pairs-of-spells-and-potions | No                 | Yes      | No           |
+| count-complete-tree-nodes              | Yes                | Yes      | No           |
 
 ### Sliding Window
 
