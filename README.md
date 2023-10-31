@@ -50,6 +50,7 @@
 - same-tree-recursive
 - minimum-absolute-difference-in-bst
 - invert-binary-tree
+- count-complete-tree-nodes
 
 ### In-order Travsersal
 
@@ -62,11 +63,13 @@
 ### DFS
 
 - same-tree-recursive
+- count-complete-tree-nodes
 
 ### Recursion
 
 - same-tree-recursive
 - invert-binary-tree
+- count-complete-tree-nodes
 
 ### Set/Hash-Table
 
