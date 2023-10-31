@@ -52,6 +52,7 @@
 - minimum-absolute-difference-in-bst
 - invert-binary-tree
 - count-complete-tree-nodes
+- average-of-levels-in-binary-tree
 
 ### In-order Travsersal
 
@@ -60,6 +61,7 @@
 ### BFS
 
 - same-tree-iterative
+- average-of-levels-in-binary-tree
 
 ### DFS
 
