@@ -55,6 +55,7 @@
 - average-of-levels-in-binary-tree
 - binary-tree-level-order-traversal
 - binary-tree-right-side-view
+- binary-tree-zigzag-level-order-traversal
 
 ### In-order Travsersal
 
@@ -66,6 +67,7 @@
 - average-of-levels-in-binary-tree
 - binary-tree-level-order-traversal
 - binary-tree-right-side-view
+- binary-tree-zigzag-level-order-traversal
 
 ### DFS
 
