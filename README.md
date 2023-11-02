@@ -6,11 +6,13 @@
 | find-peak-element                      | Yes                | Yes      | No           |
 | successful-pairs-of-spells-and-potions | No                 | Yes      | No           |
 | count-complete-tree-nodes              | Yes                | Yes      | No           |
+| maximum-average-subarray-i             | Yes                | Yes      | No           |
 
 ### Sliding Window
 
 - best-time-to-buy-and-sell-stock
 - maximum-subarray
+- maximum-average-subarray-i
 
 ### Array
 
@@ -20,6 +22,7 @@
 - product-of-array-except-self
 - binary-search
 - find-first-and-last-position-of-element-in-sorted-array
+- maximum-average-subarray-i
 
 ### Prefix/Postfix
 
