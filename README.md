@@ -1,18 +1,20 @@
-| Problem                                | Looked at solution | Do again | Solved again |
-| -------------------------------------- | ------------------ | -------- | ------------ |
-| same-tree-iterative                    | Yes                | Yes      | No           |
-| same-tree-recursive                    | Yes                | Yes      | No           |
-| asteroid-collision                     | Yes                | Yes      | No           |
-| find-peak-element                      | Yes                | Yes      | No           |
-| successful-pairs-of-spells-and-potions | No                 | Yes      | No           |
-| count-complete-tree-nodes              | Yes                | Yes      | No           |
-| maximum-average-subarray-i             | Yes                | Yes      | No           |
+| Problem                                                 | Looked at solution | Do again | Solved again |
+| ------------------------------------------------------- | ------------------ | -------- | ------------ |
+| same-tree-iterative                                     | Yes                | Yes      | No           |
+| same-tree-recursive                                     | Yes                | Yes      | No           |
+| asteroid-collision                                      | Yes                | Yes      | No           |
+| find-peak-element                                       | Yes                | Yes      | No           |
+| successful-pairs-of-spells-and-potions                  | No                 | Yes      | No           |
+| count-complete-tree-nodes                               | Yes                | Yes      | No           |
+| maximum-average-subarray-i                              | Yes                | Yes      | No           |
+| maximum-number-of-vowels-in-a-substring-of-given-length | Yes                | Yes      | No           |
 
 ### Sliding Window
 
 - best-time-to-buy-and-sell-stock
 - maximum-subarray
 - maximum-average-subarray-i
+- maximum-number-of-vowels-in-a-substring-of-given-length
 
 ### Array
 
@@ -23,6 +25,7 @@
 - binary-search
 - find-first-and-last-position-of-element-in-sorted-array
 - maximum-average-subarray-i
+- maximum-number-of-vowels-in-a-substring-of-given-length
 
 ### Prefix/Postfix
 
