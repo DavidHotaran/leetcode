@@ -26,6 +26,11 @@
 - find-first-and-last-position-of-element-in-sorted-array
 - maximum-average-subarray-i
 - maximum-number-of-vowels-in-a-substring-of-given-length
+- find-the-highest-altitude
+
+### Prefix Sum
+
+- find-the-highest-altitude
 
 ### Prefix/Postfix
 
