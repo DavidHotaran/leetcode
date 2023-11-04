@@ -8,6 +8,7 @@
 | count-complete-tree-nodes                               | Yes                | Yes      | No           |
 | maximum-average-subarray-i                              | Yes                | Yes      | No           |
 | maximum-number-of-vowels-in-a-substring-of-given-length | Yes                | Yes      | No           |
+| find-pivot-index                                        | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -27,10 +28,12 @@
 - maximum-average-subarray-i
 - maximum-number-of-vowels-in-a-substring-of-given-length
 - find-the-highest-altitude
+- find-pivot-index
 
 ### Prefix Sum
 
 - find-the-highest-altitude
+- find-pivot-index (technically not)
 
 ### Prefix/Postfix
 
