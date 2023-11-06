@@ -30,7 +30,6 @@
 - find-the-highest-altitude
 - find-pivot-index
 - contains-duplicate
-- valid-anagram
 
 ### Prefix Sum
 
@@ -47,6 +46,7 @@
 - reverse-words-in-a-string
 - reverse-vowles-in-a-string
 - length-of-last-word
+- valid-anagram
 
 ### 2 Pointers
 
