@@ -29,6 +29,7 @@
 - maximum-number-of-vowels-in-a-substring-of-given-length
 - find-the-highest-altitude
 - find-pivot-index
+- contains-duplicate
 
 ### Prefix Sum
 
@@ -97,6 +98,7 @@
 ### Set/Hash-Table
 
 - find-difference-of-two-arrays
+- contains-duplicate
 
 ### Stack
 
