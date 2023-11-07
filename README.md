@@ -30,6 +30,7 @@
 - find-the-highest-altitude
 - find-pivot-index
 - contains-duplicate
+- two-sum
 
 ### Prefix Sum
 
@@ -101,6 +102,7 @@
 - find-difference-of-two-arrays
 - contains-duplicate
 - valid-anagram
+- two-sum
 
 ### Stack
 
