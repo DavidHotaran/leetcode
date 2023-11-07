@@ -32,6 +32,7 @@
 - contains-duplicate
 - two-sum
 - top-k-frequent-elements
+- two-sum-ii-input-array-is-sorted
 
 ### Prefix Sum
 
@@ -57,6 +58,7 @@
 - reverse-words-in-a-string
 - reverse-vowels-in-a-string
 - valid-palindrome
+- two-sum-ii-input-array-is-sorted
 
 ### Binary Search
 
