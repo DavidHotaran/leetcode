@@ -48,6 +48,7 @@
 - reverse-vowles-in-a-string
 - length-of-last-word
 - valid-anagram
+- group-anagrams
 
 ### 2 Pointers
 
@@ -103,6 +104,7 @@
 - contains-duplicate
 - valid-anagram
 - two-sum
+- group-anagrams
 
 ### Stack
 
