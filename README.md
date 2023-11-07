@@ -50,11 +50,13 @@
 - length-of-last-word
 - valid-anagram
 - group-anagrams
+- valid-palindrome
 
 ### 2 Pointers
 
 - reverse-words-in-a-string
 - reverse-vowels-in-a-string
+- valid-palindrome
 
 ### Binary Search
 
