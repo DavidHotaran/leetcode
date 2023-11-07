@@ -31,6 +31,7 @@
 - find-pivot-index
 - contains-duplicate
 - two-sum
+- top-k-frequent-elements
 
 ### Prefix Sum
 
@@ -105,6 +106,7 @@
 - valid-anagram
 - two-sum
 - group-anagrams
+- top-k-frequent-elements
 
 ### Stack
 
