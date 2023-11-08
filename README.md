@@ -10,6 +10,7 @@
 | maximum-number-of-vowels-in-a-substring-of-given-length | Yes                | Yes      | No           |
 | find-pivot-index                                        | Yes                | Yes      | No           |
 | 3sum                                                    | Yes                | Yes      | No           |
+| search-a-2d-matrix                                      | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -35,6 +36,7 @@
 - top-k-frequent-elements
 - two-sum-ii-input-array-is-sorted
 - 3sum
+- search-a-2d-matrix
 
 ### Prefix Sum
 
@@ -70,6 +72,7 @@
 - guess-number-higher-or-lower
 - find-peak-element
 - successful-pairs-of-spells-and-potions
+- search-a-2d-matrix
 
 ### Tree problems
 
