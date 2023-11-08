@@ -58,6 +58,7 @@
 - group-anagrams
 - valid-palindrome
 - longest-substring-without-repeating-characters
+- valid-parentheses
 
 ### 2 Pointers
 
@@ -125,6 +126,7 @@
 
 - removing-stars-from-a-string
 - asteroid-collision
+- valid-parentheses
 
 ### Linked List
 
