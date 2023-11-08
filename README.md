@@ -18,6 +18,7 @@
 - maximum-subarray
 - maximum-average-subarray-i
 - maximum-number-of-vowels-in-a-substring-of-given-length
+- longest-substring-without-repeating-characters
 
 ### Array
 
@@ -56,6 +57,7 @@
 - valid-anagram
 - group-anagrams
 - valid-palindrome
+- longest-substring-without-repeating-characters
 
 ### 2 Pointers
 
@@ -117,6 +119,7 @@
 - two-sum
 - group-anagrams
 - top-k-frequent-elements
+- longest-substring-without-repeating-characters
 
 ### Stack
 
