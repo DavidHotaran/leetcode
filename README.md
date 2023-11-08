@@ -9,6 +9,7 @@
 | maximum-average-subarray-i                              | Yes                | Yes      | No           |
 | maximum-number-of-vowels-in-a-substring-of-given-length | Yes                | Yes      | No           |
 | find-pivot-index                                        | Yes                | Yes      | No           |
+| 3sum                                                    | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -33,6 +34,7 @@
 - two-sum
 - top-k-frequent-elements
 - two-sum-ii-input-array-is-sorted
+- 3sum
 
 ### Prefix Sum
 
@@ -59,6 +61,7 @@
 - reverse-vowels-in-a-string
 - valid-palindrome
 - two-sum-ii-input-array-is-sorted
+- 3sum
 
 ### Binary Search
 
