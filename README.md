@@ -127,7 +127,12 @@
 - removing-stars-from-a-string
 - asteroid-collision
 - valid-parentheses
+- min-stack
 
 ### Linked List
 
 - delete-the-middle-node-of-a-linked-list
+
+### Design Problems
+
+- min-stack
