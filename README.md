@@ -11,6 +11,7 @@
 | find-pivot-index                                        | Yes                | Yes      | No           |
 | 3sum                                                    | Yes                | Yes      | No           |
 | search-a-2d-matrix                                      | Yes                | Yes      | No           |
+| reverse-linked-list                                     | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -132,6 +133,7 @@
 ### Linked List
 
 - delete-the-middle-node-of-a-linked-list
+- reverse-linked-list
 
 ### Design Problems
 
