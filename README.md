@@ -134,6 +134,7 @@
 
 - delete-the-middle-node-of-a-linked-list
 - reverse-linked-list
+- merge-two-sorted-lists
 
 ### Design Problems
 
