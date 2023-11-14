@@ -92,6 +92,7 @@
 - binary-tree-level-order-traversal
 - binary-tree-right-side-view
 - binary-tree-zigzag-level-order-traversal
+- maximum-depth-of-binary-tree
 
 ### In-order Travsersal
 
@@ -104,11 +105,13 @@
 - binary-tree-level-order-traversal
 - binary-tree-right-side-view
 - binary-tree-zigzag-level-order-traversal
+- maximum-depth-of-binary-tree
 
 ### DFS
 
 - same-tree-recursive
 - count-complete-tree-nodes
+- maximum-depth-of-binary-tree
 
 ### Recursion
 
