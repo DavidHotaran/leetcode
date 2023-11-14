@@ -12,6 +12,7 @@
 | 3sum                                                    | Yes                | Yes      | No           |
 | search-a-2d-matrix                                      | Yes                | Yes      | No           |
 | reverse-linked-list                                     | Yes                | Yes      | No           |
+| remove-nth-node-from-end-of-list                        | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -68,6 +69,7 @@
 - valid-palindrome
 - two-sum-ii-input-array-is-sorted
 - 3sum
+- remove-nth-node-from-end-of-list
 
 ### Binary Search
 
@@ -135,6 +137,7 @@
 - delete-the-middle-node-of-a-linked-list
 - reverse-linked-list
 - merge-two-sorted-lists
+- remove-nth-node-from-end-of-list
 
 ### Design Problems
 
