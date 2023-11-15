@@ -13,6 +13,7 @@
 | search-a-2d-matrix                                      | Yes                | Yes      | No           |
 | reverse-linked-list                                     | Yes                | Yes      | No           |
 | remove-nth-node-from-end-of-list                        | Yes                | Yes      | No           |
+| subtree-of-another-tree                                 | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -93,6 +94,7 @@
 - binary-tree-right-side-view
 - binary-tree-zigzag-level-order-traversal
 - maximum-depth-of-binary-tree
+- subtree-of-another-tree
 
 ### In-order Travsersal
 
@@ -112,12 +114,14 @@
 - same-tree-recursive
 - count-complete-tree-nodes
 - maximum-depth-of-binary-tree
+- subtree-of-another-tree
 
 ### Recursion
 
 - same-tree-recursive
 - invert-binary-tree
 - count-complete-tree-nodes
+- subtree-of-another-tree
 
 ### Set/Hash-Table
 
