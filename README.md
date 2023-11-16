@@ -16,6 +16,8 @@
 | subtree-of-another-tree                                 | Yes                | Yes      | No           |
 | validate-binary-search-tree                             | Yes                | Yes      | No           |
 
+count-good-nodes-in-binary-tree
+
 ### Sliding Window
 
 - best-time-to-buy-and-sell-stock
@@ -97,6 +99,7 @@
 - maximum-depth-of-binary-tree
 - subtree-of-another-tree
 - validate-binary-search-tree
+- count-good-nodes-in-binary-tree
 
 ### In-order Travsersal
 
@@ -118,6 +121,7 @@
 - maximum-depth-of-binary-tree
 - subtree-of-another-tree
 - validate-binary-search-tree
+- count-good-nodes-in-binary-tree
 
 ### Recursion
 
@@ -126,6 +130,7 @@
 - count-complete-tree-nodes
 - subtree-of-another-tree
 - validate-binary-search-tree
+- count-good-nodes-in-binary-tree
 
 ### Set/Hash-Table
 
