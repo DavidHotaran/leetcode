@@ -14,6 +14,7 @@
 | reverse-linked-list                                     | Yes                | Yes      | No           |
 | remove-nth-node-from-end-of-list                        | Yes                | Yes      | No           |
 | subtree-of-another-tree                                 | Yes                | Yes      | No           |
+| validate-binary-search-tree                             | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -95,6 +96,7 @@
 - binary-tree-zigzag-level-order-traversal
 - maximum-depth-of-binary-tree
 - subtree-of-another-tree
+- validate-binary-search-tree
 
 ### In-order Travsersal
 
@@ -115,6 +117,7 @@
 - count-complete-tree-nodes
 - maximum-depth-of-binary-tree
 - subtree-of-another-tree
+- validate-binary-search-tree
 
 ### Recursion
 
@@ -122,6 +125,7 @@
 - invert-binary-tree
 - count-complete-tree-nodes
 - subtree-of-another-tree
+- validate-binary-search-tree
 
 ### Set/Hash-Table
 
