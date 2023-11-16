@@ -100,10 +100,12 @@ count-good-nodes-in-binary-tree
 - subtree-of-another-tree
 - validate-binary-search-tree
 - count-good-nodes-in-binary-tree
+- kth-smallest-element-in-a-bst
 
 ### In-order Travsersal
 
 - minimum-absolute-difference-in-bst
+- kth-smallest-element-in-a-bst
 
 ### BFS
 
@@ -131,6 +133,7 @@ count-good-nodes-in-binary-tree
 - subtree-of-another-tree
 - validate-binary-search-tree
 - count-good-nodes-in-binary-tree
+- kth-smallest-element-in-a-bst
 
 ### Set/Hash-Table
 
