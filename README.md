@@ -45,6 +45,7 @@
 - 3sum
 - search-a-2d-matrix
 - maximum-subarray
+- valid-sudoku
 
 ### Prefix Sum
 
