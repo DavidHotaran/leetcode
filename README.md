@@ -15,8 +15,8 @@
 | remove-nth-node-from-end-of-list                        | Yes                | Yes      | No           |
 | subtree-of-another-tree                                 | Yes                | Yes      | No           |
 | validate-binary-search-tree                             | Yes                | Yes      | No           |
-
-count-good-nodes-in-binary-tree
+| maximum-subarray                                        | Yes                | Yes      | No           |
+| count-good-nodes-in-binary-tree                         | Yes                | Yes      | No           |
 
 ### Sliding Window
 
@@ -44,6 +44,7 @@ count-good-nodes-in-binary-tree
 - two-sum-ii-input-array-is-sorted
 - 3sum
 - search-a-2d-matrix
+- maximum-subarray
 
 ### Prefix Sum
 
@@ -101,6 +102,7 @@ count-good-nodes-in-binary-tree
 - validate-binary-search-tree
 - count-good-nodes-in-binary-tree
 - kth-smallest-element-in-a-bst
+- minimum-depth-of-binary-tree
 
 ### In-order Travsersal
 
@@ -115,6 +117,7 @@ count-good-nodes-in-binary-tree
 - binary-tree-right-side-view
 - binary-tree-zigzag-level-order-traversal
 - maximum-depth-of-binary-tree
+- minimum-depth-of-binary-tree
 
 ### DFS
 
@@ -163,3 +166,7 @@ count-good-nodes-in-binary-tree
 ### Design Problems
 
 - min-stack
+
+### Subarray
+
+- maximum-subarray
