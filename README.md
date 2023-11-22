@@ -68,6 +68,7 @@
 - longest-substring-without-repeating-characters
 - valid-parentheses
 - is-subsequence
+- longest-common-prefix
 
 ### 2 Pointers
 
