@@ -67,6 +67,7 @@
 - valid-palindrome
 - longest-substring-without-repeating-characters
 - valid-parentheses
+- is-subsequence
 
 ### 2 Pointers
 
@@ -77,6 +78,7 @@
 - 3sum
 - remove-nth-node-from-end-of-list
 - linked-list-cycle
+- is-subsequence
 
 ### Binary Search
 
