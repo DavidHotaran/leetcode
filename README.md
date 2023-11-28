@@ -46,6 +46,7 @@
 - search-a-2d-matrix
 - maximum-subarray
 - valid-sudoku
+- remove-element
 
 ### Prefix Sum
 
@@ -80,6 +81,7 @@
 - remove-nth-node-from-end-of-list
 - linked-list-cycle
 - is-subsequence
+- remove-element
 
 ### Binary Search
 
